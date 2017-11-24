@@ -1,4 +1,4 @@
-package com.fxc.ramusage;
+package com.fxc.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

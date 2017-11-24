@@ -1,4 +1,4 @@
-package com.fxc.ramusage;
+package com.fxc.demo;
 
 import org.junit.Test;
 

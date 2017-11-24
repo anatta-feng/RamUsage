@@ -1,4 +1,4 @@
-package com.fxc.ramusage;
+package com.fxc.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
 		// Context of the app under test.
 		Context appContext = InstrumentationRegistry.getTargetContext();
 
-		assertEquals("com.fxc.ramusage", appContext.getPackageName());
+		assertEquals("com.fxc.ramusage.test", appContext.getPackageName());
 	}
 }
